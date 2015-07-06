@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Rebecca Lara" # Set default author name
+      categories: "general"
       layout: "post"
       comments: true
   -
